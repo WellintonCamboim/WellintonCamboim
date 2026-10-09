@@ -1,6 +1,6 @@
 ### Olá, eu sou o Wellinton (Camboim) 👋
 
-Engenheiro de software full-stack em Camboriú, SC, com mais de 6 anos de experiência. Trabalho com fintech e pagamentos (PIX, tesouraria, reconciliação financeira) e aplico IA em soluções internas.
+Engenheiro de software full-stack, com mais de 7 anos de experiência. Trabalho com fintech e pagamentos (PIX, tesouraria, reconciliação financeira) e aplico IA em soluções internas.
 
 Mais do que escrever código, gosto de resolver problemas: entender o negócio por trás de cada demanda e entregar a solução viável que melhor atende a quem vai usá-la. A formação em engenharia me ajuda a aprender rápido e a escolher as ferramentas certas para cada desafio.
 
